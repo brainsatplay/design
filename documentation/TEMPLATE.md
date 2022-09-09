@@ -1,31 +1,27 @@
-# design
- The Brains@Play Design System + Ethos
+# repo
+[![Npm package version](https://badgen.net/npm/v/repo)](https://npmjs.com/package/repo)
+[![Npm package monthly downloads](https://badgen.net/npm/dm/repo)](https://npmjs.ccom/package/repo)
 [![License: AGPL v3](https://img.shields.io/badge/license-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Discord](https://img.shields.io/badge/community-discord-7289da.svg?sanitize=true)](https://discord.gg/CDxskSh9ZB)
 
- ## Our Ethos
- ### 🌐 Web Standard
- Our design decisions always come from a place of simplifying the developer experience and ensuring sustainability in light of ongoing standardization efforts by [ECMA International](https://www.ecma-international.org/) and the [World Wide Web Consortium (W3C)](https://www.w3.org/standards/).
+**repo** does something. Make this super clear!
 
- We don't lock users into unnecessary abstractions. Just format code files as ES Modules!
+> **Note:** **repo** is (and if not, remove this) a core library of the [Brains@Play Framework](https://github.com/brainsatplay/brainsatplay).
 
- ### 📜 Radical Openness
- All of our library are licensed under the [AGPL](https://www.gnu.org/licenses/agpl-3.0) license. All derivatives are also free and open-source software!
+## The Benefits
+🔮 **Something Great:** List out what makes your project great with cool emojis!
 
- ### ♿ Accessibility
- The accessibility of our solutions is one of our long-term priorities. 
- 
- However, at the moment, we have not focused enough on user interface to be compliant with [WCAG 2.1](https://www.w3.org/TR/WCAG21/).
+## Getting Started
+> See complete documentation for the Brains@Play Framework at [docs.brainsatplay.com](https://docs.brainsatplay.com).
 
-## Contents
-### [documentation](./documentation/README.md)
-Information on the Brains@Play Documentation System.
+Users should use your tool in a very specific way. Tell them!
 
-### [interface](./interface/README.md)
-Information on the Brains@Play Interface Design System.
+```javascript
+console.log('hello world')
+```
 
 ## Support
-If you have questions about the Brains@Play Design System, feel free to start a conversation on [Discord](https://discord.gg/tQ8P79tw8j) or reach out directly to our team at [contact@brainsatplay.com](mailto:contact@brainsatplay.com).
+If you have questions about developing with [repo], feel free to start a conversation on [Discord](https://discord.gg/tQ8P79tw8j) or reach out directly to our team at [contact@brainsatplay.com](mailto:contact@brainsatplay.com).
 
 ## Acknowledgments
 This project is maintained by [Garrett Flynn](https://github.com/garrettmflynn) and [Joshua Brewster](https://github.com/joshbrew), who use contract work and community contributions through [Open Collective](https://opencollective.com/brainsatplay) to support themselves.
@@ -98,3 +94,6 @@ This project is maintained by [Garrett Flynn](https://github.com/garrettmflynn) 
 <a href="https://opencollective.com/brainsatplay/sponsor/27/website" target="_blank"><img src="https://opencollective.com/brainsatplay/sponsor/27/avatar.svg"></a>
 <a href="https://opencollective.com/brainsatplay/sponsor/28/website" target="_blank"><img src="https://opencollective.com/brainsatplay/sponsor/28/avatar.svg"></a>
 <a href="https://opencollective.com/brainsatplay/sponsor/29/website" target="_blank"><img src="https://opencollective.com/brainsatplay/sponsor/29/avatar.svg"></a>
+
+
+[repo]: https://github.com/organization/repo
