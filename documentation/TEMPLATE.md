@@ -6,7 +6,7 @@
 
 **repo** does something. Make this super clear!
 
-> **Note:** **repo** is (and if not, remove this) a core library of the [Brains@Play Framework](https://github.com/brainsatplay/brainsatplay).
+> **repo** is (and if not, remove this) a core library of the [Brains@Play Framework](https://github.com/brainsatplay/brainsatplay).
 
 ## The Benefits
 🔮 **Something Great:** List out what makes your project great with cool emojis!

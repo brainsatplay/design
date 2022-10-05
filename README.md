@@ -13,9 +13,7 @@
  All of our library are licensed under the [AGPL](https://www.gnu.org/licenses/agpl-3.0) license. All derivatives are also free and open-source software!
 
  ### ♿ Accessibility
- The accessibility of our solutions is one of our long-term priorities. 
- 
- However, at the moment, we have not focused enough on user interface to be compliant with [WCAG 2.1](https://www.w3.org/TR/WCAG21/).
+ The accessibility of our solutions is one of our long-term priorities. At the moment, however, we've not been able to focus on making our tools [WCAG 2.1](https://www.w3.org/TR/WCAG21/) compliant.
 
 ## Contents
 ### [documentation](./documentation/README.md)
